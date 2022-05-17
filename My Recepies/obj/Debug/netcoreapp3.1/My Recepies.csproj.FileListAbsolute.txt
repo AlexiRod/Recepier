@@ -1,0 +1,37 @@
+D:\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.exe
+D:\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.deps.json
+D:\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.runtimeconfig.json
+D:\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.runtimeconfig.dev.json
+D:\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.dll
+D:\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.pdb
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.csprojAssemblyReference.cache
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My_Recepies.MainForm.resources
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My_Recepies.ProductsForm.resources
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.csproj.GenerateResource.cache
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.AssemblyInfoInputs.cache
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.AssemblyInfo.cs
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.csproj.CoreCompileInputs.cache
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.dll
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.pdb
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.genruntimeconfig.cache
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My_Recepies.RecepiesForm.resources
+D:\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My_Recepies.InputForm.resources
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.exe
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.deps.json
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.runtimeconfig.json
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.runtimeconfig.dev.json
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.dll
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\bin\Debug\netcoreapp3.1\My Recepies.pdb
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.csproj.AssemblyReference.cache
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My_Recepies.MainForm.resources
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My_Recepies.InputForm.resources
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My_Recepies.ProductsForm.resources
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My_Recepies.RecepiesForm.resources
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.csproj.GenerateResource.cache
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.GeneratedMSBuildEditorConfig.editorconfig
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.AssemblyInfoInputs.cache
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.AssemblyInfo.cs
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.csproj.CoreCompileInputs.cache
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.dll
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.pdb
+D:\HSE\Разное\1 курс\Прога\Разное\Старое, дряхлое и ненужное\My Recepies\My Recepies\obj\Debug\netcoreapp3.1\My Recepies.genruntimeconfig.cache

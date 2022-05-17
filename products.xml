@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product name="Хлеб">
+    <kkal>265</kkal>
+  </product>
+  <product name="Мука">
+    <kkal>345</kkal>
+  </product>
+  <product name="Свинина">
+    <kkal>142</kkal>
+  </product>
+  <product name="Телятина">
+    <kkal>110</kkal>
+  </product>
+  <product name="Говядина">
+    <kkal>254</kkal>
+  </product>
+  <product name="Крольчатина">
+    <kkal>156</kkal>
+  </product>
+  <product name="Курица">
+    <kkal>144</kkal>
+  </product>
+  <product name="Индейка">
+    <kkal>90</kkal>
+  </product>
+  <product name="Белуга">
+    <kkal>147</kkal>
+  </product>
+  <product name="Докторская колбаса">
+    <kkal>257</kkal>
+  </product>
+  <product name="Сервелат">
+    <kkal>410</kkal>
+  </product>
+  <product name="Салями">
+    <kkal>568</kkal>
+  </product>
+  <product name="Сосиски">
+    <kkal>300</kkal>
+  </product>
+  <product name="Молоко">
+    <kkal>55</kkal>
+  </product>
+  <product name="Творог">
+    <kkal>140</kkal>
+  </product>
+  <product name="Сметана">
+    <kkal>200</kkal>
+  </product>
+  <product name="Йогурт">
+    <kkal>67</kkal>
+  </product>
+  <product name="Сыр Российский">
+    <kkal>363</kkal>
+  </product>
+  <product name="Сыр Моцарелла">
+    <kkal>240</kkal>
+  </product>
+  <product name="Сыр Голландский">
+    <kkal>352</kkal>
+  </product>
+  <product name="Яйца">
+    <kkal>152</kkal>
+  </product>
+  <product name="Рис">
+    <kkal>334</kkal>
+  </product>
+  <product name="Огурец">
+    <kkal>15</kkal>
+  </product>
+  <product name="Кабачки">
+    <kkal>26</kkal>
+  </product>
+  <product name="Баклажаны">
+    <kkal>24</kkal>
+  </product>
+  <product name="Капуста">
+    <kkal>28</kkal>
+  </product>
+  <product name="Картофель">
+    <kkal>80</kkal>
+  </product>
+  <product name="Лук">
+    <kkal>20</kkal>
+  </product>
+  <product name="Редис">
+    <kkal>20</kkal>
+  </product>
+  <product name="Манка">
+    <kkal>325</kkal>
+  </product>
+  <product name="Сахар">
+    <kkal>350</kkal>
+  </product>
+  <product name="Соль">
+    <kkal>10</kkal>
+  </product>
+  <product name="Масло сливочное">
+    <kkal>787</kkal>
+  </product>
+  <product name="Макароны">
+    <kkal>333</kkal>
+  </product>
+  <product name="Бекон">
+    <kkal>393</kkal>
+  </product>
+  <product name="Масло оливковое">
+    <kkal>898</kkal>
+  </product>
+  <product name="Сыр Пармезан">
+    <kkal>392</kkal>
+  </product>
+</products>

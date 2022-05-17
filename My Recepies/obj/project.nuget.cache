@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgNtKfW8O00rvJCsc1G5pRnKRq3xpayxTxDYwcSKVypfzZhRXY3hYfcP1HUTjRJdRZN0FanUo9Sg+9z/pcTGzg==",
+  "success": true,
+  "projectFilePath": "D:\\HSE\\Разное\\1 курс\\Прога\\Разное\\Старое, дряхлое и ненужное\\My Recepies\\My Recepies\\My Recepies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
